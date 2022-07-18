@@ -1,12 +1,3 @@
----
-layout: post
-title: "test"
-subtitle: "[Tips]"
-date: 2020-03-02 17:00
-background: 
-tag: [Tips, Github io, Notion]
----
-
 # 연구소 관리
 
 [성과 관리(평가) 이념](https://www.notion.so/f55144588fe24b5a9bf3ea9563188ef9)
